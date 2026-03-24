@@ -23,12 +23,11 @@ Hi, I am a Computer Science student passionate about learning new technologies a
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 ---
-
 ## 🏆 Competitive Programming:
 
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=tus79101&theme=radical)
 
-![Codeforces Activity Graph](https://cf-activity-graph.vercel.app/graph/tus79101)
+![Codeforces Activity Graph](https://codeforces-visualizer.vercel.app/api/tus79101)
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-Profile-orange?logo=codeforces)](https://codeforces.com/profile/tus79101)
 
