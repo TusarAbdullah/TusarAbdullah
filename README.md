@@ -1,3 +1,4 @@
+<!--
 # 💫 About Me:
 Hi, I am a Computer Science student passionate about learning new technologies and building useful applications. I enjoy solving problems and improving my coding skills step by step.
 
