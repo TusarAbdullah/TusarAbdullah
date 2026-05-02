@@ -2,7 +2,6 @@
 # 💫 About Me:
 Hi, I am a Computer Science student passionate about learning new technologies and building useful applications. I enjoy solving problems and improving my coding skills step by step.
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/tusar-abdullah) 
 
