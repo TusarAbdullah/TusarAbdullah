@@ -13,5 +13,14 @@ Hi, I am a Computer Science student passionate about learning new technologies a
 
 ---
 [![](https://visitcount.itsvg.in/api?id=TusarAbdullah&icon=0&color=0)](https://visitcount.itsvg.in)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?
+logo=linkedin&logoColor=white)](https://linkedin.com/in/tusar-abdullah)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Stats](https://github-readme-stats.vercel.app/api?
+username=TusarAbdullah&theme=radical&hide_border=false
+&include_all_commits=false&count_private=false
+&cache_seconds=86400)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?
+username=TusarAbdullah&theme=radical&hide_border=false
+&layout=compact&cache_seconds=86400)
